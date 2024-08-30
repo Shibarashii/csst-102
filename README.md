@@ -1,4 +1,4 @@
-# CCST 102
+# CSST 102
 
 This will store all the **activities** in this subject
 
