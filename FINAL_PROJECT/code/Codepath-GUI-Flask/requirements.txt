@@ -1,0 +1,10 @@
+chardet
+Flask
+gensim
+huggingface_hub
+langchain_huggingface
+numpy
+python-dotenv
+scikit_learn
+torch
+transformers
