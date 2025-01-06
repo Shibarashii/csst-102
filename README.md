@@ -1,7 +1,9 @@
 # CSST 102 Archives
 
 **Name:** Seanrei Ethan M. Valdeabella
+
 **Course and Year:** BSCS - 3B IS
+
 **Class Code:** CCST 102 - Basic Machine Learning
 
 
